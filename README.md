@@ -1,3 +1,10 @@
+Hola:
+Puede por favor agregar su nombre completo y su numero de ID?
+Gracias!
+
+Luis C. Rosales A.
+
+
 # Repositorio del Laboratorio de Control Automático
 Repositorio dedicado a los proyectos individuales del curso Laboratorio de Control Automático.
 
