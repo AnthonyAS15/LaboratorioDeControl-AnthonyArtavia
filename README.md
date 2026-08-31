@@ -22,9 +22,8 @@ El segundo proyecto individual del curso se puede encontrar en la carpeta llamad
 
 El tercer proyecto individual del curso está en la carpeta llamada Proyecto 3. Este consiste del script llamado Polos_Dinamicos, el cual posee una función con el mismo nombre. Para ejecutar dicho script, se pueden seguir las siguientes indicaciones
 
-===========================================================================
 GUÍA RÁPIDA DE EJECUCIÓN - Polos_Dinamicos
-===========================================================================
+
 1. EJECUTAR EL SCRIPT:
    Llama a la función desde la Command Window pasando ceros:
    >> Polos_Dinamicos([], [-1, -2])
@@ -42,5 +41,4 @@ GUÍA RÁPIDA DE EJECUCIÓN - Polos_Dinamicos
 5. FINALIZAR:
    Vuelve a la Command Window de MATLAB y presiona ENTER para generar
    la nueva ecuación característica y visualizar las respuestas.
-===========================================================================
-
+   
