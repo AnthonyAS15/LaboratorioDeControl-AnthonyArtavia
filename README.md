@@ -26,7 +26,7 @@ GUÍA RÁPIDA DE EJECUCIÓN - Polos_Dinamicos
 
 1. EJECUTAR EL SCRIPT:
    Llama a la función desde la Command Window pasando ceros:
-   >> Polos_Dinamicos([], [-1, -2])
+   `>> Polos_Dinamicos([], [-1, -2])`
 
 2. DISEÑAR INTERACTIVAMENTE:
    En la ventana gráfica que se abre (Control System Designer):
