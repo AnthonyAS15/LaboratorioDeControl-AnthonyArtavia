@@ -22,23 +22,24 @@ El segundo proyecto individual del curso se puede encontrar en la carpeta llamad
 
 El tercer proyecto individual del curso está en la carpeta llamada Proyecto 3. Este consiste del script llamado Polos_Dinamicos, el cual posee una función con el mismo nombre. Para ejecutar dicho script, se pueden seguir las siguientes indicaciones
 
-GUÍA RÁPIDA DE EJECUCIÓN - Polos_Dinamicos
+Guía Rápida de Ejecución - Polos_Dinamicos
 
-1. EJECUTAR EL SCRIPT:
+1. Ejecutar el Script:
    Llama a la función desde la Command Window pasando ceros:
+   
    `>> Polos_Dinamicos([], [-1, -2])`
 
-2. DISEÑAR INTERACTIVAMENTE:
+3. Diseñar Interectivamente:
    En la ventana gráfica que se abre (Control System Designer):
    - Arrastrar polos: Arrastra los marcadores rosa en el gráfico Root Locus.
    - Agregar polos: Clic derecho en el gráfico -> 'Add Pole/Zero' -> 'Pole' y haz clic donde desees colocarlo.
 
-4. EXPORTAR EL COMPENSADOR:
+4. Exportar el Compensador:
    - Haz clic en la pestaña "Control System" (arriba).
    - Haz clic en el botón "Export" -> "Export Model".
    - Selecciona únicamente el bloque "C" (Compensador) y presiona "Export to Workspace".
 
-5. FINALIZAR:
+5. Finalizar:
    Vuelve a la Command Window de MATLAB y presiona ENTER para generar
    la nueva ecuación característica y visualizar las respuestas.
    
