@@ -20,7 +20,7 @@ El segundo proyecto individual del curso se puede encontrar en la carpeta llamad
 
 ## Proyecto Individual 3
 
-El tercer proyecto individual del curso está en la carpeta llamada Proyecto 3. Este consiste del script llamado Polos_Dinamicos, el cual posee una función con el mismo nombre. Para ejecutar dicho script, se pueden seguir las siguientes indicaciones
+El tercer proyecto individual del curso está en la carpeta llamada Proyecto 3. Este consiste del script llamado Polos_Dinamicos, el cual posee una función con el mismo nombre. Para ejecutar dicho script, se pueden seguir las siguientes indicaciones:
 
 Guía Rápida de Ejecución - Polos_Dinamicos
 
